@@ -1,0 +1,21 @@
+.bg_bland{
+    background-color: rgba(0, 0, 0, 0.877);
+    background-blend-mode: darken, luminosity;
+}
+.banner_title{
+    color: black !important;
+}
+.banner_text{
+    color: black !important;
+}
+
+/* .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: -0.75rem !important;
+    left: 15%;
+    padding-top: 0.25rem !important;
+    padding-bottom: 1.25rem !important;
+    color: #fff;
+    text-align: center;
+} */

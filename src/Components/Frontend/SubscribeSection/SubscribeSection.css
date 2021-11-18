@@ -1,0 +1,10 @@
+.subscribe_section{
+    background-color: #3fd0d4;
+}
+
+@media (max-width: 576px) {
+    .subscribe input{
+        width: 100% !important;
+        margin-bottom: 10px;
+    }
+}

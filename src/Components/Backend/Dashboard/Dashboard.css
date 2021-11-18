@@ -1,0 +1,12 @@
+.dashobard{
+    overflow-x: hidden !important;
+}
+
+@media (min-width: 576px) { 
+    .swal2-container.swal2-center>.swal2-popup {
+        grid-column: 0 !important;
+        grid-row: 0 !important;
+        align-self: center !important;
+        justify-self: center !important;
+    }
+ }
