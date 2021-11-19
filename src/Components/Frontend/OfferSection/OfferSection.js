@@ -8,9 +8,11 @@ const OfferSection = () => {
       <div className="banner-container">
         <div className="banner_item">
           <div className="banner_details text-center">
-            <h1>Baby Fashion</h1>
+            <h1>HondaCBR, 2 Sports Bike</h1>
             <p className="mb-3">flat 50% off</p>
-            <NavLink to="/services" className="btn btn-lg btn-danger">Shop Now</NavLink>
+            <NavLink to="/services" className="btn btn-lg btn-danger">
+              Shop Now
+            </NavLink>
           </div>
         </div>
       </div>

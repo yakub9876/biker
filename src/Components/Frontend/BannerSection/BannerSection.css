@@ -3,10 +3,17 @@
     background-blend-mode: darken, luminosity;
 }
 .banner_title{
-    color: black !important;
+    color: white !important;
+    font-size: 60px;
 }
 .banner_text{
-    color: black !important;
+    color: white !important;
+}
+
+.carousel-caption{
+    top: 50%;
+    transform: translate(0, -50%);
+    text-align: center;
 }
 
 /* .carousel-caption {

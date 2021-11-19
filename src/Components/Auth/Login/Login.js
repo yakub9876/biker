@@ -24,6 +24,7 @@ const Login = () => {
     newLoginData[data.target.name] = data.target.value;
     setRegisterData(newLoginData);
   };
+  console.log(user);
 
   const handleRegisterSubmit = (e) => {
     const password = registerData.password;

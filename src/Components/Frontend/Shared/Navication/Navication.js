@@ -10,7 +10,7 @@ const Navication = () => {
       <Container fluid>
         <Navbar.Brand as={Link} to="/">
           <img
-            src="https://i.ibb.co/yBY0Hk3/logo.png"
+            src="https://i.ibb.co/1zm7qD1/biker-logo-white.png"
             className="w-100"
             style={{ height: "50px" }}
             alt=""

@@ -21,7 +21,7 @@ const Service = ({ service }) => {
           variant="top"
           src={img}
           className="w-100"
-          style={{ height: "250px", width: "250px" }}
+          style={{ height: "300px", objectFit: "cover", width: "250px" }}
         />
         <Card.Body>
           <Card.Title>{title}</Card.Title>

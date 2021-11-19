@@ -42,11 +42,11 @@ const MakeAdmin = () => {
       <Container maxWidth="sm">
         <Grid container spacing={2}>
           <Grid item xs={12} sm={12} md={12} lg={12} sx={{ margin: "0 auto" }}>
-            <Typography variant="body1">Add Services</Typography>
+            <Typography variant="body1">Make Admin</Typography>
             <form onSubmit={handleSubmit}>
               <TextField
                 id="standard-basic"
-                label="Make Admin"
+                label="Enter email"
                 variant="standard"
                 sx={{ width: "100%", mt: 1 }}
                 onBlur={handleOnBlur}
@@ -58,7 +58,7 @@ const MakeAdmin = () => {
                 type="submit"
                 sx={{ width: "100%", mt: 1 }}
               >
-                Add Service
+                Make Admin
               </Button>
             </form>
           </Grid>
